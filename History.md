@@ -1,3 +1,12 @@
+# Version 1.1.0
+
+### Updated
+
+* Depend on same major version of dependencies
+
+Release date: 2014-01-22
+
+
 # Version 1.0.0
 
 ### Updated

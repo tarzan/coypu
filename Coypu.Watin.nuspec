@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Coypu.Watin</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>AdrianLongley</authors>
     <owners>AdrianLongley</owners>
     <projectUrl>https://github.com/coypu/Coypu</projectUrl>
@@ -12,7 +12,7 @@
     <tags></tags>
     <dependencies>
       <dependency id="Coypu" version="[1.0.0,2.0.0)" />
-      <dependency id="WatiN" version="[2.1.0]" />
+      <dependency id="WatiN" version="[2.1.0,3.0.0)" />
     </dependencies>
   </metadata>
     <files>
